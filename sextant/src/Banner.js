@@ -1,9 +1,10 @@
 import React from 'react';
+import './Banner.css';
 
-function Banner({title}) {
+function Banner(props) {
   return (
-    <div style={{ backgroundColor: 'lightblue', padding: '20px' }}>
-      <h1>{title}</h1>
+    <div className="banner">
+      <h1>{props.title}</h1>
     </div>
   );
 }

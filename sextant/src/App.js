@@ -5,11 +5,9 @@ import Exhibit from './Exhibit';
 function App() {
   return (
     <div>
-      <Banner title="Sextant" />
-      <Exhibit heading="Data Points">
-        <p>Data point 1</p>
-        <p>Data point 2</p>
-        <p>Data point 3</p>
+      <Banner title="My Site" />
+      <Exhibit heading="Exhibit">
+        <p>Cisco virtual Internship.</p>
       </Exhibit>
     </div>
   );

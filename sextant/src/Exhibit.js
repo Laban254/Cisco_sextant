@@ -1,10 +1,11 @@
 import React from 'react';
+import './Exhibit.css';
 
-function Exhibit({heading, children}) {
+function Exhibit(props) {
   return (
-    <div style={{ border: '1px solid black', padding: '20px' }}>
-      <h2>{heading}</h2>
-      {children}
+    <div className="exhibit">
+      <h2>{props.heading}</h2>
+      <div className="content">{props.children}</div>
     </div>
   );
 }
