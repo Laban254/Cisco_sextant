@@ -5,7 +5,7 @@ import Exhibit from './Exhibit';
 function App() {
   return (
     <div>
-      <Banner title="My Site" />
+      <Banner title="Sextant" />
       <Exhibit heading="Exhibit">
         <p>Cisco virtual Internship.</p>
       </Exhibit>
