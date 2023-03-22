@@ -5,7 +5,7 @@ Cisco Sextant virtual internship through Forage
 
 
 ## Sextant Frontend Development Project
-This project is focused on developing a frontend for the Sextant network automation tool using React and other web technologies. The project is divided into several tasks, each of which is designed to help you gain practical skills in React development, npm package management, and Git version control.
+This project is focused on developing a frontend for the Sextant network automation tool using React and other web technologies. The project is divided into several tasks, each of which is designed to help you gain practical skills in React development, npm package management, Use of API'S and Git version control.
 
 ## Project Initialization
 Before you can begin working on the Sextant frontend, you will need to set up your local development environment. This will involve installing the necessary software packages, configuring your development environment, and cloning the Sextant repository from GitHub.
